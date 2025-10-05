@@ -2,7 +2,7 @@
 
 Last updated: October 1, 2025
 
-By using this Discord bot ("the Bot"), you agree to the following terms:
+By using this Discord bot, you agree to the following terms:
 
 1. **Usage**
    - You must follow the Discord Terms of Service and Community Guidelines.
