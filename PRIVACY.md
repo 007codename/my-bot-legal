@@ -2,7 +2,7 @@
 
 Last updated: October 1, 2025
 
-This Privacy Policy explains how this Discord bot ("the Bot") handles data.
+This Privacy Policy explains how this Discord bot handles data.
 
 1. **Data Collected**
    - The Bot may collect and store basic Discord information such as:
